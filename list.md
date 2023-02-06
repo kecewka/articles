@@ -27,4 +27,8 @@
   <li>"Microservices security: A systematic review and future directions" by X. Ma, Q. Gao, and Y. Zhang, in Journal of Computer Science and Technology (2021).</li>
   <li>"Security challenges and solutions in microservices architecture: A review" by A. Al-Hosni and M. Al-Zu'bi, in Journal of Software Engineering Research and Development (2021).</li>
   <li>"Microservices security: A comprehensive overview and future directions" by N. R. Pillai and S. G. Sonawane, in Journal of Computer Science and Technology (2021).</li>
+  <li>A Novel Approach to Secure Microservice Architecture from OWASP vulnerabilities. Oras Baker, Quy Nguyen</li>
+  <li>N. Mateus-Coelho, M. Cruz-Cunha, and L. G. Ferreira, “Security in Microservices Architectures,” Procedia Comput. Sci., vol. 181, pp. 1225–1236, Jan. 2021, doi: 10.1016/J.PROCS.2021.01.320</li>
+  <li>Davide Berardi, Saverio Giallorenzo, Jacopo Mauro, Andrea Melis, Fabrizio Montesi, and Marco Prandini. 2022. Microservice security: a systematic literature review. PeerJ Computer Science(2022)</li>
+  <li>T. Yarygina and A. H. Bagge, "Overcoming Security Challenges in Microservice Architectures," 2018 IEEE Symposium on Service-Oriented System Engineering (SOSE), 2018, pp. 11-20, doi: 10.1109/SOSE.2018.00011.</li>
 </ol>
